@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "CharisDb": "Server=tcp:corsivavietnamstaging.database.windows.net,1433;Initial Catalog= Charis;Persist Security Info=False;User ID=corsivavietnamstaging;Password=1qazxsw2#EDC;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  }
+}

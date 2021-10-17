@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Charis.Data\Charis.Data.csproj" />
+    <ProjectReference Include="..\Charis.ModelView\Charis.ModelView.csproj" />
+    <ProjectReference Include="..\Charis.Utilities\Charis.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>
